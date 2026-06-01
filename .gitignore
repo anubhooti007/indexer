@@ -1,0 +1,11 @@
+# Generated exports (re-run fetch_events.py to reproduce)
+output/*.csv
+output/*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
