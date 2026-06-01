@@ -1,0 +1,31 @@
+{
+  "fetched_at": "2026-05-26T13:20:33.207012+00:00",
+  "events": [
+    "english-premier-league-winner",
+    "2026-nba-champion",
+    "uefa-champions-league-winner"
+  ],
+  "markets_only": false,
+  "active_only": false,
+  "max_trades_per_market": null,
+  "summary": {
+    "english-premier-league-winner": {
+      "markets": 25,
+      "trades": 80000,
+      "dome_rows": 80000,
+      "markets_hit_api_cap": 20
+    },
+    "2026-nba-champion": {
+      "markets": 30,
+      "trades": 120000,
+      "dome_rows": 120000,
+      "markets_hit_api_cap": 30
+    },
+    "uefa-champions-league-winner": {
+      "markets": 60,
+      "trades": 139042,
+      "dome_rows": 139042,
+      "markets_hit_api_cap": 32
+    }
+  }
+}
